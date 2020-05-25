@@ -1,2 +1,2 @@
 # PythonQthread
-discribe how to use qthread in python program
+Describe how to use qthread in python program
